@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IGGraphAPI</string>
+    <string name="facebook_app_id">840833846835596</string>
+    <string name="fb_login_protocol_scheme">fb840833846835596</string>
+    <string name="facebook_client_token">1b854cca9513987825611bc59a630073</string>
+</resources> 
